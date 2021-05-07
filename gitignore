@@ -1,0 +1,11 @@
+## project Ignore file ##
+
+# no sound datas
+*.wav
+*.mp3
+
+# no sound folder directory
+no3subway/
+busWAV/
+dataset/
+subwayWAV/
